@@ -1,0 +1,6 @@
+@EANValidator_HostAddress = http://localhost:5118
+
+GET {{EANValidator_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
